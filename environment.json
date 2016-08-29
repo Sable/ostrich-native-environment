@@ -2,7 +2,7 @@
 	"type": "environment",
 	"short-name": "native",
 	"name": "native",
-	"version": "",
+	"version": "1.0.0",
 	"supported-languages": ["x86"],
 	"supported-formats": ["binary"]
 }
